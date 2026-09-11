@@ -4,8 +4,12 @@
 Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disciplina de Algoritmo e Codificação de Sistemas, lecionada no 1° semestre do curso de bacharelado em Ciência da Computação no Centro Universitário do Estado do Pará (CESUPA). Eu escrevi, individualmente, o código-fonte na linguagem C, tendo Utilizado a Inteligência Artificial (IA) Chat GPT para produzir o terceiro jogo e a IA Copilot do VS Code para produzir alguns trechos de código do segundo jogo.
 </div>
 
+<br>
+
 ## 📦 Tecnologias
   - Linguagem C
+
+<br>
 
 ## ⚙️ Funcionalidades
 <div align="justify">
@@ -20,21 +24,38 @@ Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disc
 </p>
 <br>
 <h3>🐍 | Cobra na Caixa</h3>
-<p>
-  
+<p align="justify">
+  Ambos os usuários precisam escolher, cada um, seu nome. Após isto, um deles será sorteado para abrir, primeiramente, 
+  uma das cinco caixas disponíveis. Uma caixa terá o botão que dará fim ao jogo e implicará na vitória dos usuários,         enquanto outro terá uma cobra venenosa que também resultará no encerramento do jogo, implicando, porém, na derrota 
+  dos usuários. Caso os dois jogadores selecionem caixas vazias, inicia-se uma nova rodada, na qual a posição do botão 
+  e da cobra irão mudar aleatoriamente.
 </p>
 <br><br>
 <h3>⚔️ | Gousmas War</h3>
-
+<p align="justify">
+  Neste jogo, cada usuário começa duas criaturas chamadas Gousmas, as quais acumulam todo o nível de fúria da Gousma         adversária ao serem atacadas. Os usuários podem dividir os níveis de fúria entre suas Gousmas, desde que não 
+  ultrapassem o nível 5. Caso uma destas criaturas ultrapasse este patamar, desintegrar-se-á. O jogador que perder todas
+  as suas Gousmas será derrotado.
+</p>
 <br>
 
 
 ## ⏳ O Processo de Criação
 
+<br>
+
 ## 📚 Aprendizados
+
+<br>
 
 ## 🌨️ Como este Programa pode ser Melhorado?
 
+<br>
+
 ## 🛞 Rodando o Projeto 
 
+<br>
+
 ## 🍿 Vídeo
+
+<br>
