@@ -30,7 +30,7 @@ Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disc
   dos usuários. Caso os dois jogadores selecionem caixas vazias, inicia-se uma nova rodada, na qual a posição do botão 
   e da cobra irão mudar aleatoriamente.
 </p>
-<br><br>
+<br>
 <h3>⚔️ | Gousmas War</h3>
 <p align="justify">
   Neste jogo, cada usuário começa duas criaturas chamadas Gousmas, as quais acumulam todo o nível de fúria da Gousma         adversária ao serem atacadas. Os usuários podem dividir os níveis de fúria entre suas Gousmas, desde que não 
