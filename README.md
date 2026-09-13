@@ -54,7 +54,7 @@ Neste projeto, eu aprendi a usar:
   - Laços de repetição, tais como `while` e `do...while`;
   - Controle condicional com `if`, `else if`, `else` e `switch case`; 
   - `system("cls")`, que limpa a tela (faz com que os outputs anteriores desapareçam);
-  - `getchar()`, que faz com que o computador leia, imediatamente, um único caracter inserido pelo usuário;
+  - `getchar()`, que faz com que o computador leia um único caracter inserido pelo usuário;
   - `scanf("%d", &x)`, que lê e armazena um dado em uma variável `x` do tipo inteiro;
   - `rand()%5+1` para obter um número aleatório entre 1 e 6;
   - `system("pause")` para pausar um output no ecrã, não deixando-o subitamente sumir;
