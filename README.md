@@ -78,7 +78,7 @@ Este programa ainda pode ser melhorado em diversos aspectos:
 
 <br>
 
-<p align-"justify">
+<p align="justify">
 - No que tange ao jogo Cobra na Caixa, o programa admite que os usuários escolham o mesmo nome para os seus exploradores, o que conseguintemente resulta em um sorteio no qual não se consegue distinguir qual jogador foi sorteado. Nesse sentido, programa pode ser melhorado ao não se permitir que o jogador 2 escolha o mesmo nome do jogador 1. Além disso, o programa permite escolher uma caixa fora da numeração permitida, admitindo, inclusive, caracteres, o que não pode ocorrer. 
 </p>
 
