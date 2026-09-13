@@ -1,7 +1,7 @@
 # 🎮 Jogos da Atividade Avaliativa da Disciplina de Algoritmo e Codifição de Sistemas
 
 <div align="justify"> 
-Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disciplina de Algoritmo e Codificação de Sistemas, lecionada no 1° semestre do curso de bacharelado em Ciência da Computação no Centro Universitário do Estado do Pará (CESUPA). Eu escrevi, individualmente, o código-fonte na linguagem C, tendo Utilizado a Inteligência Artificial (IA) Chat GPT para produzir o terceiro jogo e a IA Copilot do VS Code para produzir alguns trechos de código do segundo jogo.
+Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disciplina de Algoritmo e Codificação de Sistemas, lecionada no 1° semestre do curso de bacharelado em Ciência da Computação no Centro Universitário do Estado do Pará (CESUPA). Eu escrevi, individualmente, o código-fonte na linguagem C, tendo utilizado a Inteligência Artificial (IA) Chat GPT para produzir o terceiro jogo e a IA Copilot do VS Code para produzir alguns trechos de código do segundo jogo.
 </div>
 
 <br>
