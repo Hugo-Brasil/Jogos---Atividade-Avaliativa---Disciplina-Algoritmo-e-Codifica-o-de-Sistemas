@@ -54,7 +54,7 @@ Neste projeto, eu aprendi a usar:
   - Laços de repetição, tais como `while` e `do...while`;
   - Controle condicional com `if`, `else if`, `else` e `switch case`; 
   - `system("cls")`, que limpa a tela (faz com que os outputs anteriores desapareçam);
-  - `getchar()`, que faz com que o computador leia um único caracter inserido pelo usuário;
+  - `getchar()`, que faz com que o computador leia um único caractere inserido pelo usuário;
   - `scanf("%d", &x)`, que lê e armazena um dado em uma variável `x` do tipo inteiro;
   - `rand()%5+1` para obter um número aleatório entre 1 e 6;
   - `system("pause")` para pausar um output no ecrã, não deixando-o subitamente sumir;
@@ -71,6 +71,19 @@ Neste projeto, eu aprendi a usar:
 
 ## 🌨️ Como este Programa pode ser Melhorado?
 
+Este programa ainda pode ser melhorado em diversos aspectos: 
+<p align="justify">
+  
+- Por exemplo, no que tange ao jogo de Perguntas de Direito Tributário, apesar do sistema reconhecer quando um caractere não é válido, (1) quando o usuário preenche dois ou mais caracteres inválidos, o output de invalidez se repete o mesmo número de vezes que os caracteres inválidos foram inseridos. Consequentemente, o usuário precisa apertar qualquer tecla para prosseguir na mesma medida em que inseriu caracteres inválidos, ao invés de receber apenas uma mensagem. Além disso, (2) se o usuário preencher por engano, por exemplo, duas letras válidas, a primeira letra válida responderá a questão em que o usuário se encontra e a segunda responderá automaticamente a próxima questão. Após o término deste jogo, ademais, quando o usuário precisa decidir se o joga novamente ou retorna ao menu, o programa ainda não reconhece caracteres inválidos e, neste caso, se encerra automaticamente.
+
+- No que tange ao jogo Cobra na Caixa, o programa admite que os usuários escolham o mesmo nome para os seus exploradores, o que conseguintemente resulta em um sorteio no qual não se consegue distinguir qual jogador foi sorteado. Nesse sentido, programa pode ser melhorado ao não se permitir que o jogador 2 escolha o mesmo nome do jogador 1. Além disso, o programa permite escolher uma caixa fora da numeração permitida, admitindo, inclusive, caracteres, o que não pode ocorrer.
+
+- No que tange ao terceiro jogo, não tenho muitos comentários, pois este fora feito inteiramente por IA. Ainda assim, observei que quando o usuário aperta em uma tecla incorreta, o jogo trava e isto é algo a ser melhorado.
+  
+</p>
+<br>
+- 
+</p>
 <br>
 
 ## 🛞 Rodando o Projeto 
