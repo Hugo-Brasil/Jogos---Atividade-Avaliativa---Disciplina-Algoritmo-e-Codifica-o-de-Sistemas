@@ -41,10 +41,30 @@ Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disc
 
 
 ## ⏳ O Processo de Criação
-
+<p align="justify">
+  Estes jogos foram desenvolvidos no 1° semestre da minha graduação em Ciência da Computação como parte da atividade         avaliativa da disciplina de Algoritmo e Codificação de Sistemas. Este código, portanto, corresponde a minha introdução à   programação, especialmente no que tange ao pensamento algorítmico para desenvolver um corolário que possa ser utilizado,   ao fim, por um usuário. Inicialmente, eu decidi que utilizaria o VS Code para escrever o código em linguagem C. O          processo de criação foi desafiador, pois tive que aprender diversos conteúdos completamente novos para alguém acostumado   com assuntos do âmbito jurídico e administrar o tempo do trabalho com o do meu novo curso de graduação, o que me levou a   demorar bastante para escrever os dois primeiros jogos, não sobrando tempo algum para o terceiro, que foi desenvolvido     inteiramente pela IA do Chat GPT. Apesar disso, consegui consolidar diversos aprendizados extremamente úteis para o        semestre seguinte.
+</p>
 <br>
 
 ## 📚 Aprendizados
+
+<p>
+Neste projeto, eu aprendi a usar:
+  - Laços de repetição, tais como `while` e `do...while`;
+  - Controle condicional com `if`, `else if`, `else` e `switch case`; 
+  - `system("cls")`, que limpa a tela (faz com que os outputs anteriores desapareçam);
+  - `getchar()`, que faz com que o computador leia, imediatamente, um único caracter inserido pelo usuário;
+  - `scanf("%d", &x)`, que lê e armazena um dado em uma variável `x` do tipo inteiro;
+  - `rand()%5+1` para obter um número aleatório entre 1 e 6;
+  - `system("pause")` para pausar um output no ecrã, não deixando-o subitamente sumir;
+  - Operadores lógicos, tais como `&&` e `||`;
+  - Operadores relacionais, como `!=`, `==`, `>=` e `<=`;
+  - Operador de incremento: `++`;
+  - Operador de atribuição: `=`;
+  - E declarar variáveis dos tipos `int` e `char`, sendo que esta última precisa estar em aspas simples;
+  - E declarar vetores.
+  
+</p>
 
 <br>
 
