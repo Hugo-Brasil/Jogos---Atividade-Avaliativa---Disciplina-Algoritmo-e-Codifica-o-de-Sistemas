@@ -92,6 +92,9 @@ Este programa ainda pode ser melhorado em diversos aspectos:
 
 ## 🛞 Rodando o Projeto 
 
+<p align="justify">
+Para rodar este programa, o usuário precisa instalar o GCC através do MinGW para adicionar o compilador da linguagem C ao Sistema Operacional do Windows. Por fim, basta que o usuário utilize uma IDE, como o VS Code ou DEV C++ para compilar e executar o código-fonte, gerando, assim, o arquivo executável (.exe).
+</p>
 <br>
 
 ## 🍿 Vídeo
