@@ -49,6 +49,7 @@ Esse projeto foi entregue para o cumprimento de uma atividade avaliativa da disc
 ## 📚 Aprendizados
 
 <p>
+  
 Neste projeto, eu aprendi a usar:
   - Laços de repetição, tais como `while` e `do...while`;
   - Controle condicional com `if`, `else if`, `else` e `switch case`; 
